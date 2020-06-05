@@ -1,5 +1,8 @@
 Palace Network Seasonal Resource Pack
 
+Faithful 1.12, 1.13, 1.14, 1.15
+Authors: xMrVizzy & Vattic
+
 To use this with your Minecraft client:
 
 1. [Click here](https://github.com/ThePalaceMC/SeasonalResourcePack/releases/latest)
