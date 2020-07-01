@@ -1,5 +1,5 @@
 {
-	"credit": "Made by HootlinglyOwl",
+	"credit": "Made by HootinglyOwl",
 	"textures": {
 		"1": "blocks/quartz_block_top",
 		"2": "blocks/quartz_block_lines",
@@ -21,7 +21,7 @@
 			}
 		},
 		{
-			"from": [30, 0, -1],
+			"from": [30, 2, -1],
 			"to": [32, 21, 1],
 			"rotation": {"angle": 0, "axis": "y", "origin": [39, 8, 8]},
 			"faces": {
@@ -34,7 +34,7 @@
 			}
 		},
 		{
-			"from": [30, 0, 15],
+			"from": [30, 2, 15],
 			"to": [32, 15, 17],
 			"rotation": {"angle": 0, "axis": "y", "origin": [39, 8, 23]},
 			"faces": {
@@ -47,9 +47,9 @@
 			}
 		},
 		{
-			"from": [31, 3, 1],
-			"to": [32, 4, 15],
-			"rotation": {"angle": 0, "axis": "y", "origin": [39, 11, 10]},
+			"from": [31, 6, 1],
+			"to": [32, 7, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [39, 14, 10]},
 			"faces": {
 				"north": {"uv": [0, 0, 0.33333, 0.33333], "texture": "#2"},
 				"east": {"uv": [0, 0, 4.66667, 0.33333], "texture": "#2"},
@@ -164,7 +164,7 @@
 			}
 		},
 		{
-			"from": [-16, 0, -1],
+			"from": [-16, 2, -1],
 			"to": [-14, 21, 1],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 8, 8]},
 			"faces": {
@@ -177,7 +177,7 @@
 			}
 		},
 		{
-			"from": [-16, 0, 15],
+			"from": [-16, 2, 15],
 			"to": [-14, 15, 17],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 8, 23]},
 			"faces": {
@@ -190,9 +190,9 @@
 			}
 		},
 		{
-			"from": [-16, 3, 1],
-			"to": [-15, 4, 15],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 11, 10]},
+			"from": [-16, 6, 1],
+			"to": [-15, 7, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 14, 10]},
 			"faces": {
 				"north": {"uv": [0, 0, 0.33333, 0.33333], "texture": "#2"},
 				"east": {"uv": [0, 0, 4.66667, 0.33333], "texture": "#2"},
@@ -1185,9 +1185,13 @@
 		"ground": {
 			"scale": [0.25, 0.25, 0.25]
 		},
+		"gui": {
+			"rotation": [17, 150, 0],
+			"scale": [0.26, 0.26, 0.26]
+		},
 		"head": {
-			"translation": [0, -30.5, -1.25],
-			"scale": [1.5, 1.5, 1.5]
+			"translation": [0, -6.75, 0],
+			"scale": [1.44, 1.44, 1.44]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
