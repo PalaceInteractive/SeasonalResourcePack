@@ -1,7 +1,7 @@
 {
 	"credit": "Made by PanicAtTheJedi",
 	"textures": {
-		"14": "block/bookshelf",
+		"14": "block/lapis_block",
 		"15": "block/oak_planks",
 		"1_1": "block/black_wool"
 	},

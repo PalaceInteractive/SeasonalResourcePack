@@ -5,9 +5,9 @@
 		"1": "blocks/concrete_pink",
 		"2": "blocks/concrete_black",
 		"3": "blocks/concrete_lime",
-		"4": "blocks/melon_side",
+		"4": "blocks/concrete_green",
 		"5": "blocks/snow",
-		"particle": "pink_terracotta"
+		"particle": "hardened_clay_stained_pink"
 	},
 	"elements": [
 		{

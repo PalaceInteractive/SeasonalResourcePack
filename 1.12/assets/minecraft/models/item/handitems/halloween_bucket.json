@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "blocks/pumpkin_face_on",
+		"0": "blocks/pumpkin_side",
 		"1": "custom/mickeypumpkin",
 		"4": "blocks/wool_colored_black",
 		"particle": "custom/mickeypumpkin"

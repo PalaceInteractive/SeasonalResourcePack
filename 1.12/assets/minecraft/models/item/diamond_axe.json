@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/diamond_axe"
+        "layer0": "items/diamond_axe"
     },
 "overrides":[
 { "predicate": { "damaged": 0, "damage": 0.00064061499}, "model":"item/seasonalhats/hulacrown"},
@@ -24,6 +24,15 @@
 { "predicate": { "damaged": 0, "damage": 0.0115310698}, "model":"item/seasonalhats/catcostume_tally"},
 { "predicate": { "damaged": 0, "damage": 0.01217168481}, "model":"item/seasonalhats/catcostume_terry"},
 { "predicate": { "damaged": 0, "damage": 0.0128122998}, "model":"item/seasonalhats/floatieghosties"},
-{ "predicate": { "damaged": 0, "damage": 0.0134529147}, "model":"item/handitems/billyhalloween"}
+{ "predicate": { "damaged": 0, "damage": 0.01345291479}, "model":"item/handitems/billyhalloween"},
+{ "predicate": { "damaged": 0, "damage": 0.01409352978}, "model":"item/decorations/sled"},
+{ "predicate": { "damaged": 0, "damage": 0.01473414477}, "model":"item/decorations/menorah"},
+{ "predicate": { "damaged": 0, "damage": 0.01537475976}, "model":"item/decorations/garland"},
+{ "predicate": { "damaged": 0, "damage": 0.01601537475}, "model":"item/decorations/wall_lantern"},
+{ "predicate": { "damaged": 0, "damage": 0.01665598975}, "model":"item/decorations/old_register"},
+{ "predicate": { "damaged": 0, "damage": 0.01729660474}, "model":"item/decorations/color_bush"},
+{ "predicate": { "damaged": 0, "damage": 0.01793721973}, "model":"item/decorations/white_bush"},
+{ "predicate": { "damaged": 0, "damage": 0.01857783472}, "model":"item/handitems/hot_chocolate"},
+{ "predicate": { "damaged": 0, "damage": 0.01921844971}, "model":"item/seasonalhats/present_hat_2"}
 ]
 }

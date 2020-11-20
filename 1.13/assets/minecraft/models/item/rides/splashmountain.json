@@ -2,7 +2,7 @@
 	"credit": "Made by Kastle",
 	"textures": {
 		"0": "block/oak_log_top",
-		"1": "block/jungle_log_top",
+		"1": "block/dark_oak_log_top",
 		"2": "block/birch_planks",
 		"3": "block/brown_wool",
 		"4": "custom/rideplac",

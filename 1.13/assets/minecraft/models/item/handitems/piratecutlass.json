@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/anvil",
 		"1": "block/brown_wool",
-		"2": "block/stone_slab_top",
+		"2": "block/smooth_stone",
 		"particle": "block/anvil"
 	},
 	"elements": [
