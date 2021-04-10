@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "custom/beetlejuice",
-		"1": "block/emerald_block",
+		"1": "blocks/emerald_block",
 		"particle": "custom/beetlejuice"
 	},
 	"elements": [
