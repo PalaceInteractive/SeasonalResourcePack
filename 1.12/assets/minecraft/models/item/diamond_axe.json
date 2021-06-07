@@ -90,6 +90,11 @@
 { "predicate": { "damaged": 0, "damage": 0.05381165919}, "model":"item/seasonalhats/yoshipink"},
 { "predicate": { "damaged": 0, "damage": 0.05445227418}, "model":"item/seasonalhats/yoshipurple"},
 { "predicate": { "damaged": 0, "damage": 0.05509288917}, "model":"item/seasonalhats/yoshired"},
-{ "predicate": { "damaged": 0, "damage": 0.05509288917}, "model":"item/seasonalhats/yoshiyellow"}
+{ "predicate": { "damaged": 0, "damage": 0.05509288917}, "model":"item/seasonalhats/yoshiyellow"},
+{ "predicate": { "damaged": 0, "damage": 0.0557335042}, "model":"item/rides/billy_arm"},
+{ "predicate": { "damaged": 0, "damage": 0.0563741192}, "model":"item/rides/matagridevehicle"},
+{ "predicate": { "damaged": 0, "damage": 0.0570147341}, "model":"item/rides/surfboard"},
+{ "predicate": { "damaged": 0, "damage": 0.0576553491}, "model":"item/rides/silly_symphony_swings"},
+{ "predicate": { "damaged": 0, "damage": 0.0582959641}, "model":"item/rides/silly_symphony_swings_double"}
 ]
 }
