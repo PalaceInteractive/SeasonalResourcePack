@@ -1,0 +1,6 @@
+{
+    "animation": {
+        "interpolate": flase,
+        "frametime": 8
+    }
+}
